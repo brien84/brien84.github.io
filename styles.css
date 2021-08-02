@@ -1,0 +1,13 @@
+html {
+    background-color: black;
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+}
